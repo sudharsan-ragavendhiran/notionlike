@@ -1,0 +1,40 @@
+# Java build files
+/build/
+/out/
+/target/
+/bin/
+
+# Gradle files
+.gradle/
+/!gradle-wrapper.jar
+**/build/
+**/out/
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+*.env
+
+# Generated files
+*.class
+*.jar
+*.war
+*.ear
+
+# Node (if frontend added later)
+node_modules/
+dist/
+
+# OneDrive/Windows weird temp files
+~$*
